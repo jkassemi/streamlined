@@ -1,0 +1,13 @@
+StreamLined for Rails 3.0-pre
+==================================
+
+This is a very basic raw port of the Streamlined Framework for 
+Rails3.0-pre. 
+
+Actually it is not fully tested but it seems to work for all the CRUD methods
+(plus search) and it correctly implements its basic layout. 
+
+For more informations please visit the official Streamline github page 
+(http://github.com/relevance/streamlined)
+
+-- Sandro
