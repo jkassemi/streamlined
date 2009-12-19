@@ -1,4 +1,5 @@
 require 'rake'
+require File.dirname(__FILE__) + '/../../../config/application'
 
 begin
   puts "======================================================================"
